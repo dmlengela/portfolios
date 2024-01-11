@@ -19,7 +19,7 @@
 •	Text Editor: Notepad ++ & Sublime Text 3
 •	Databases: SQL & LINQ
 •	Desktop Conference and telecommunication Systems: Zooms, Microsoft Teams, and Google Meets
-•	Excellent in communication and interpersonal skills. 
+•	Excellent communication and interpersonal skills. 
 
 ### Relevant Coursework:
 
@@ -39,8 +39,13 @@
 •	Web Programming Framework (HTML, PHP, CSS)
 
 ### Relevant Experience:
-CENTRAL NEW MEXICO COMMUNITY COLLEGE	                                            ALBUQUERQUE, NM
-Class Projects – Programs in C++, C#, Java, SQL, and Python	                 AUGUST 2020– MAY 2023
+CENTRAL NEW MEXICO COMMUNITY COLLEGE	                                           
+Class Projects – Programs in C++, C#, Java, SQL, and Python	                 
+ALBUQUERQUE, NM
+
+AUGUST 2020 – MAY 2023
+
+
 •	Worked independently to debug debugging exercises & demonstrated the use of debugging tools in four languages. 
 •	Participated in group projects and assisted with the assigned part of the project.
 •	Familiarity with software development and programming concepts and basic ability to write and read Java, C#, C++, and Python. 
@@ -55,8 +60,12 @@ Class Projects – Programs in C++, C#, Java, SQL, and Python	                 A
 •	Constructed a program using multi-file format with .h and .cpp files.
 •	Created a program that will write or read data from a data file to the screen and receive data from the keyboard.  
 
-CENTRAL NEW MEXICO COMMUNITY COLLEGE	                                           ALBUQUERQUE, NM
-Capstone Project – Portfolio in C++, C#, and Java	                              MAY – JULY 2023
+CENTRAL NEW MEXICO COMMUNITY COLLEGE	                                           
+Capstone Project – Portfolio in C++, C#, and Java	                             
+ALBUQUERQUE, NM
+
+MAY – JULY 2023
+
 •	Demonstrated the use of Google to find useful information on classes or functions needed for a program.
 •	Demonstrated programming logic, clear code writing style, and commenting. 
 •	Demonstrated the appropriate class/function, its implementation, and implementation of the code in a program.
